@@ -1,0 +1,19 @@
+{
+  "name": "banana-peel",
+  "version": "1.0.0",
+  "description": "A starting place for large projects",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/drKnoxy/banana-peel.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/drKnoxy/banana-peel/issues"
+  },
+  "homepage": "https://github.com/drKnoxy/banana-peel"
+}
